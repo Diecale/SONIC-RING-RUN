@@ -1,8 +1,11 @@
-# React + Vite
+<h1>Sonic Runner Game</h1>
+<p>An infinite-runner game with Sonic assets. Run, collect rings, kill the bugs, and get the higher score — without passing out!</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<ul>Built why:</ul>
+<li>Javascript</li>
+<li>KaplayJS</li>
+<li>Vite</li>
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img src="./public/graphics/sonic-runner-thumbnail.png" alt="thumbnail"/>
