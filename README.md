@@ -1,4 +1,4 @@
-<h1>Sonic Runner Game</h1>
+<h1>Sonic Ring Run</h1>
 <p>An infinite-runner game with Sonic assets. Run, collect rings, kill the bugs, and get the higher score — without passing out!</p>
 
 <ul>Built why:</ul>
