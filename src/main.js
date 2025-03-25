@@ -43,6 +43,6 @@ kPlay.scene("main-menu", mainMenu);
 
 kPlay.scene("game", game);
 
-kPlay.scene("game-over", gameover);
+kPlay.scene("gameover", gameover);
 
 kPlay.go("main-menu");

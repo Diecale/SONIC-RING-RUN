@@ -5,6 +5,7 @@ import { makeRing } from "../entities/ring";
 
 export default function game() {
   kPlay.setGravity(3100);
+  const citySfx = kPlay.play("city", { volume: 0.2, loop: true });
 
   const bgPieceWidth = 1920;
   const bgPieces = [
@@ -83,10 +84,9 @@ export default function game() {
     }
     kPlay.play("hurt", { volume: 0.5 });
 
-    //Todo
+    kPlay.setData("current-score", score);
 
-    // Not working!!!
-    kPlay.go("game-over", { score: score });
+    kPlay.go("gameover", citySfx);
   });
 
   let gameSpeed = 300;
