@@ -8,4 +8,6 @@
 
 <br>
 
+<a href="https://sonic-ring-rung.netlify.app/">Play SONIC RING RUN</a>
+
 <img src="./public/graphics/sonic-runner-thumbnail.png" alt="thumbnail"/>
